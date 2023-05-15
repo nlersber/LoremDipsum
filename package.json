@@ -1,0 +1,23 @@
+{
+  "name": "LoremDipsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlersber/LoremDipsum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlersber/LoremDipsum/issues"
+  },
+  "homepage": "https://github.com/nlersber/LoremDipsum#readme",
+  "dependencies": {
+    "lorem-ipsum": "^2.0.8"
+  }
+}
